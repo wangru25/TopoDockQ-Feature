@@ -44,7 +44,7 @@ python -m main --pdb_id PDBID --model_id MODELID --bins BINS --filtration FILTRA
 ####  An Example to run:
 
 ```bash
-python -m main --pdb_id 4k38 --model_id 44 --bins "[0, 2.,  2.25,  2.5 ,  2.75,  3.  ,  3.25,  3.5 ,  3.75,  4., 4.25,  4.5 ,  4.75,  5.]" \\ --filtration "[0, 2.,  2.25,  2.5 ,  2.75,  3.  ,  3.25,  3.5 ,  3.75,  4., 4.25,  4.5,  4.75,  5.]" \\ --file_path ./data/interface_files --saving_path ./feature
+python -m main --pdb_id 4k38 --model_id 44 --bins "[0, 2.,  2.25,  2.5 ,  2.75,  3.  ,  3.25,  3.5 ,  3.75,  4., 4.25,  4.5 ,  4.75,  5.]" \ --filtration "[0, 2.,  2.25,  2.5 ,  2.75,  3.  ,  3.25,  3.5 ,  3.75,  4., 4.25,  4.5,  4.75,  5.]" \ --file_path ./data/interface_files --saving_path ./feature
 ```
 
 #### Output file
