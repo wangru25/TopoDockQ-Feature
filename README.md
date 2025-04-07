@@ -60,7 +60,12 @@ Documentation for TopoDockQ can be found [here](https://github.com/XDaiNYU/TopoD
 #### Please use the BibTeX entry to cite TopoDockQ:
 
 ```
-
+@article{dai2025Topological,
+  title={Topological Deep Learning for Enhancing Peptide-Protein Complex Prediction},
+  author={Dai, Xuhang and Wang, Rui and Zhang, Yingkai},
+  journal={in review},
+  year={2025}
+}
 ```
 
 #### Please use the BibTex entry to cite Persistent combinatorial Laplacians:
@@ -79,5 +84,6 @@ Documentation for TopoDockQ can be found [here](https://github.com/XDaiNYU/TopoD
 ```
 
 ## References
+- X. Dai, R. Wang, Y. Zhang. Topological Deep Learning for Enhancing Peptide-Protein Complex Prediction, _in review_, 2025.
 - R. Wang, R. Zhao, E. Ribando-Gros, J. Chen, Y. Tong, and G.-W. Wei. [HERMES: Persistent spectral graph software](https://www.aimsciences.org/article/doi/10.3934/fods.2021006), _Foundations of Data Science_, 2021.
 - R. Wang, D. D. Nguyen, and G.-W. Wei. [Persistent spectral graph](https://users.math.msu.edu/users/weig/paper/p243.pdf), _International Journal for Numerical Methods in Biomedical Engineering_, page e3376, 2020.
