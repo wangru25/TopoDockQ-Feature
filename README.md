@@ -59,7 +59,7 @@ Documentation for TopoDockQ can be found [here](https://github.com/XDaiNYU/TopoD
 ## Citing
 #### Please use the BibTeX entry to cite TopoDockQ:
 
-```
+```bibtex
 @article{dai2025Topological,
   title={Topological Deep Learning for Enhancing Peptide-Protein Complex Prediction},
   author={Dai, Xuhang and Wang, Rui and Zhang, Yingkai},
