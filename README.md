@@ -10,7 +10,7 @@
  * @Description: 
 -->
 # TopoDockQ-Feature
-This Python package generates persistent combinatorial Laplacian-based features for the TopoDockQ model.
+This Python package generates persistent combinatorial Laplacian-based features for the TopoDockQ model. The full description of TopoDockQ can be viewed [here](https://github.com/XDaiNYU/TopoDockQ).
 
 ## Requirements
 
@@ -60,7 +60,7 @@ Documentation for TopoDockQ can be found [here](https://github.com/XDaiNYU/TopoD
 #### Please use the BibTeX entry to cite TopoDockQ:
 
 ```bibtex
-@article{dai2025Topological,
+@article{dai2025topological,
   title={Topological Deep Learning for Enhancing Peptide-Protein Complex Prediction},
   author={Dai, Xuhang and Wang, Rui and Zhang, Yingkai},
   journal={in review},
