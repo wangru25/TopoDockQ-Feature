@@ -23,7 +23,7 @@ This Python package generates persistent combinatorial Laplacian-based features 
 ## Install and Build
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 ```
 
 ## Run Code
